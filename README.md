@@ -19,4 +19,5 @@ Hur kan man ignorera att vissa filer inte indexeras med Git?
 
 ## Del 2, Git clone repository & README-fil samt länk.
 Git clone https://github.com/filipbergander/Laboration-3.git
+
 https://github.com/filipbergander
